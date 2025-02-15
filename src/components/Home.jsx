@@ -1,7 +1,11 @@
+"use client";
+
 import MovieCard from "./movie-card";
 import MovieSlider from "./movie-slider";
-import BgImage from "../../public/background1.jpg"
+import BgImage from "../../public/background1.jpg";
+import movieData from "../../public/movies_list.json"; // Ensure this path is correct
 
+// Hero Movie (Featured Movie)
 const heroMovie = {
   id: "spider-man",
   title: "Spider-Man: No Way Home",
@@ -10,34 +14,35 @@ const heroMovie = {
   rating: "8.2",
   image: BgImage,
   description:
-    "Suspendisse quis ultrices torquam ut. Mi a minima dicuntur metus eu felis, id ultrices diam ipsum amet. Ut metus eros ipsum amet impedit eu scelerisque ipsum.",
+    "Spider-Man: No Way Home follows Peter Parker as he seeks help from Doctor Strange to make the world forget his identity, leading to a multiverse of challenges and the return of past villains.",
 };
 
-// Generate sample movie data
-const marvelMovies = Array.from({ length: 10 }, (_, i) => ({
-  id: `marvel-${i}`,
-  title: `Marvel Movie ${i + 1}`,
-  year: "2023",
-  image: "/placeholder.svg?height=450&width=300",
-}));
-
-const dcMovies = Array.from({ length: 10 }, (_, i) => ({
-  id: `dc-${i}`,
-  title: `DC Movie ${i + 1}`,
-  year: "2023",
-  image: "/placeholder.svg?height=450&width=300",
-}));
+// Process movie data
+const movies = movieData.map((movie, index) => ({
+  id: `movie-${index}`,
+  title: movie.movie_name,
+  image: movie.movie_og_thumbnail_url,
+  rating: movie.rating,
+  year: movie.year || "N/A",
+  duration: movie.duration || "N/A",
+  description: movie.description || "No description available.",
+})) || [];
 
 const Home = () => {
   return (
     <main className="min-h-screen bg-black text-white">
+      {/* Hero Section */}
       <section className="relative">
         <MovieCard {...heroMovie} isHero />
       </section>
 
+      {/* Movie Slider Section */}
       <section className="py-8 space-y-12">
-        <MovieSlider title="Marvel Movies" movies={marvelMovies} />
-        <MovieSlider title="DC Movies" movies={dcMovies} />
+        {movies.length > 0 ? (
+          <MovieSlider title="Watched Movies" movies={movies} />
+        ) : (
+          <p className="text-center text-white">No movies available</p>
+        )}
       </section>
     </main>
   );
