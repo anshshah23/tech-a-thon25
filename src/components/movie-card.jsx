@@ -6,14 +6,26 @@ function MovieCard({ title, year, duration, rating, image, isHero = false, descr
   if (isHero) {
     return (
       <div className="relative w-full min-h-screen flex items-end">
-        <Image src={image || "/placeholder.svg"} alt={title} fill className="object-cover z-0" priority={isHero} />
-        
-        {/* Adjusted Gradient: Black covers half width, fades out smoothly */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/90 via-black/60 to-transparent w-1/2 h-full z-[1]" />
+        <Image
+          src={image || "/placeholder.svg"}
+          alt={title}
+          fill
+          className="object-cover z-0"
+          priority={isHero}
+        />
 
-        {/* Reduced border-like definition by softening the background */}
-        <div className="relative z-[2] p-6 md:p-8 lg:p-12 w-full max-w-3xl bg-black/60 backdrop-blur-md">
-          <div className="flex items-center gap-2 mb-4">
+        {/* Black-to-transparent gradient overlay */}
+        <div className="absolute inset-0 bg-gradient-to-r from-black/100 via-black/80 to-transparent w-full md:w-2/3 h-full z-[1]" />
+
+        {/* Content container with backdrop blur that fades to the right */}
+        <div className="relative z-[2] h-screen p-6 md:p-8 lg:p-12 w-full max-w-3xl flex flex-col justify-center self-end mt-auto 
+        backdrop-blur-none before:absolute before:inset-0 before:bg-black/30 
+        before:backdrop-blur-lg before:z-[-1]
+        before:[-webkit-mask-image:linear-gradient(to_right,black,black,transparent)]
+        before:[mask-image:linear-gradient(to_right,black,black,transparent)]">
+
+          {/* Movie details */}
+          <div className="flex gap-2 mb-10">
             {rating && (
               <Badge variant="secondary" className="bg-yellow-500/20 text-yellow-500">
                 IMDb {rating}
@@ -23,12 +35,15 @@ function MovieCard({ title, year, duration, rating, image, isHero = false, descr
             {duration && <Badge variant="outline" className="text-white">{duration}</Badge>}
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4">{title}</h1>
-          {description && <p className="text-white mb-6 max-w-xl">{description}</p>}
+          {description && <p className="text-white mb-6 max-w-xl text-justify">{description}</p>}
           <div className="flex gap-4">
             <Button variant="default">Watch trailer</Button>
             <Button variant="secondary">Watch now</Button>
           </div>
         </div>
+
+        {/* Extra div to soften the blur effect at the far right */}
+        <div className="absolute top-0 bottom-0 w-20 bg-gradient-to-l from-transparent to-black/20 backdrop-blur-sm hidden md:block" />
       </div>
     )
   }
