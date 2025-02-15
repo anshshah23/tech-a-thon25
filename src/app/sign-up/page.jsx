@@ -157,6 +157,12 @@ export default function SignUp() {
                                     required
                                 />
                             </div>
+    
+                            {/* Clerk CAPTCHA Placeholder */}
+                            <div className="space-y-2">
+                                <div id="clerk-captcha"></div>
+                            </div>
+    
                             {error && (
                                 <Alert variant="destructive">
                                     <AlertDescription>{error}</AlertDescription>
@@ -203,4 +209,5 @@ export default function SignUp() {
             </Card>
         </div>
     );
+    
 }
