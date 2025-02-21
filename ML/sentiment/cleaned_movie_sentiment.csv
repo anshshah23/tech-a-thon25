@@ -1,0 +1,366 @@
+movie_name,review,sentiment_label,sentiment_score
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is fantastic in the lead role.,positive,0.4
+Inception,"Nolan's direction is masterful, creating a complex and engaging plot.",positive,0.3666666666666667
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A modern sci-fi classic that requires multiple viewings.,positive,0.12222222222222223
+The Dark Knight,A superhero masterpiece with a stellar performance by Heath Ledger.,positive,0.25
+The Dark Knight,Bale delivers a compelling Batman.,positive,0.3
+The Dark Knight,"Nolan's direction is dark and gritty, perfectly capturing the tone of Gotham.",positive,0.2833333333333333
+The Dark Knight,The action sequences are breathtaking.,positive,0.55
+The Dark Knight,Considered by many to be the greatest superhero film ever made.,positive,0.75
+Interstellar,A visually stunning and emotionally resonant space epic.,positive,0.19999999999999998
+Interstellar,McConaughey gives a powerful performance.,positive,0.3
+Interstellar,Nolan tackles complex scientific concepts with grace and clarity.,negative,-0.3
+Interstellar,"The film explores themes of love, loss, and the human spirit.",positive,0.25
+Interstellar,A breathtaking cinematic experience that will leave you in awe.,positive,0.5
+The Social Network,A brilliant and captivating film about the founding of Facebook.,positive,0.7
+The Social Network,Eisenberg delivers a phenomenal performance as Zuckerberg.,positive,0.5
+The Social Network,"Fincher's direction is top-notch, creating a tense and engaging narrative.",positive,0.3555555555555556
+The Social Network,"The script is sharp and witty, exploring complex themes of ambition and betrayal.",positive,0.025000000000000005
+The Social Network,A modern classic that accurately portrays the digital age.,positive,0.1916666666666667
+Parasite,A masterpiece of social satire and suspense.,positive,0.03333333333333333
+Parasite,Bong Joon-ho's direction is masterful.,positive,1.0
+Parasite,The film is both hilarious and deeply disturbing.,neutral,0.0
+Parasite,A must-watch that will stay with you long after the credits roll.,negative,-0.05
+Parasite,Parasite is a truly original and unforgettable cinematic experience.,positive,0.39166666666666666
+The Social Network,A brilliant and captivating film about the founding of Facebook.,positive,0.7
+The Social Network,Eisenberg delivers a phenomenal performance as Zuckerberg.,positive,0.5
+The Social Network,"Fincher's direction is top-notch, creating a tense and engaging narrative.",positive,0.3555555555555556
+The Social Network,"The script is sharp and witty, exploring complex themes of ambition and betrayal.",positive,0.025000000000000005
+The Social Network,A modern classic that accurately portrays the digital age.,positive,0.1916666666666667
+Parasite,A masterpiece of social satire and suspense.,positive,0.03333333333333333
+Parasite,Bong Joon-ho's direction is masterful.,positive,1.0
+Parasite,The film is both hilarious and deeply disturbing.,neutral,0.0
+Parasite,A must-watch that will stay with you long after the credits roll.,negative,-0.05
+Parasite,Parasite is a truly original and unforgettable cinematic experience.,positive,0.39166666666666666
+Avengers: Endgame,A satisfying and epic conclusion to the Avengers saga.,positive,0.3
+Avengers: Endgame,"Full of action, emotion, and fan-service moments.",positive,0.22499999999999998
+Avengers: Endgame,"The performances are top-notch, especially Downey Jr.'s.",positive,0.5
+Avengers: Endgame,A must-see for any Marvel fan.,neutral,0.0
+Avengers: Endgame,Endgame is a cinematic triumph that delivers on all fronts.,neutral,0.0
+Interstellar,A visually stunning and intellectually stimulating sci-fi masterpiece.,positive,0.4
+Interstellar,Nolan's direction is ambitious and thought-provoking.,positive,0.325
+Interstellar,McConaughey delivers a powerful and emotional performance.,positive,0.15
+Interstellar,"The film explores complex themes of time, space, and human connection.",negative,-0.15
+Interstellar,Interstellar is a cinematic journey that will leave you in awe.,neutral,0.0
+The Silence of the Lambs,A chilling and suspenseful thriller that redefined the genre.,negative,-0.25
+The Silence of the Lambs,Hopkins' performance as Hannibal Lecter is iconic and terrifying.,negative,-0.25
+The Silence of the Lambs,Foster is brilliant as Clarice Starling.,positive,0.9
+The Silence of the Lambs,Demme's direction creates a claustrophobic and unsettling atmosphere.,negative,-0.625
+The Silence of the Lambs,A timeless classic that remains as effective today as it was upon release.,positive,0.3833333333333333
+Psycho,Hitchcock's masterpiece of suspense and horror.,neutral,0.0
+Psycho,Perkins delivers a haunting performance as Norman Bates.,neutral,0.0
+Psycho,The shower scene is one of the most iconic moments in cinema history.,positive,0.5
+Psycho,A groundbreaking film that continues to influence filmmakers today.,neutral,0.0
+Psycho,Psycho is a must-see for any fan of suspense and psychological thrillers.,neutral,0.0
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio delivers a powerful performance.,positive,0.3
+Inception,"Nolan's direction is masterful, creating a complex and engaging narrative.",positive,0.3666666666666667
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A modern sci-fi classic that requires multiple viewings.,positive,0.12222222222222223
+The Dark Knight,A superhero masterpiece with a phenomenal villain.,positive,0.5
+The Dark Knight,Ledger's Joker is legendary.,positive,1.0
+The Dark Knight,Bale's Batman is dark and compelling.,positive,0.075
+The Dark Knight,Nolan's direction is gritty and realistic.,positive,0.08333333333333333
+The Dark Knight,A cinematic triumph that redefined the superhero genre.,neutral,0.0
+Interstellar,A visually breathtaking and emotionally resonant sci-fi epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a career-defining performance.,neutral,0.0
+Interstellar,Nolan's direction is ambitious and thought-provoking.,positive,0.325
+Interstellar,The science in the film is surprisingly accurate.,positive,0.4000000000000001
+Interstellar,"A powerful and moving story about love, loss, and the future of humanity.",positive,0.26666666666666666
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,"Nolan at his best, a complex and intelligent thriller.",positive,0.5
+Inception,DiCaprio delivers a powerful performance.,positive,0.3
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A cinematic masterpiece that requires multiple viewings.,neutral,0.0
+Interstellar,An epic and emotional sci-fi journey.,positive,0.05
+Interstellar,Visually breathtaking and scientifically grounded.,positive,1.0
+Interstellar,McConaughey's performance is heart-wrenching.,neutral,0.0
+Interstellar,"Nolan explores themes of love, time, and space with brilliance.",positive,0.5
+Interstellar,A modern sci-fi classic that pushes the boundaries of the genre.,positive,0.18333333333333335
+The Dark Knight,"The definitive superhero film, dark and gritty.",negative,-0.075
+The Dark Knight,"Ledger's Joker is legendary, a truly iconic villain.",positive,0.75
+The Dark Knight,Bale's Batman is compelling and complex.,neutral,0.0
+The Dark Knight,"Nolan's direction is masterful, creating a gripping narrative.",positive,0.75
+The Dark Knight,A cinematic triumph that transcends the superhero genre.,neutral,0.0
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,"Nolan's best work, a true masterpiece.",positive,0.675
+Inception,DiCaprio delivers a powerful performance.,positive,0.3
+Inception,The plot is intricate and keeps you guessing until the end.,neutral,0.0
+Inception,A cinematic experience unlike any other.,negative,-0.0625
+The Matrix,Revolutionary and iconic sci-fi film.,positive,0.5
+The Matrix,The action sequences are groundbreaking.,positive,0.1
+The Matrix,Reeves is perfect as Neo.,positive,1.0
+The Matrix,A thought-provoking exploration of reality and choice.,positive,0.4
+The Matrix,A must-see for any sci-fi fan.,neutral,0.0
+Interstellar,Epic and emotionally resonant space adventure.,positive,0.05
+Interstellar,McConaughey gives a career-defining performance.,neutral,0.0
+Interstellar,Visually breathtaking and scientifically grounded.,positive,1.0
+Interstellar,"A story about love, time, and the human spirit.",positive,0.25
+Interstellar,Nolan's ambitious and profound masterpiece.,positive,0.16666666666666666
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,"Nolan at his best, crafting a complex and engaging plot.",positive,0.3666666666666667
+Inception,"The acting is superb, especially DiCaprio.",positive,0.3333333333333333
+Inception,A film that demands multiple viewings to fully appreciate.,neutral,0.0
+Inception,Inception is a modern sci-fi masterpiece.,positive,0.2
+The Dark Knight,A genre-defining superhero film.,neutral,0.0
+The Dark Knight,Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,"Dark, gritty, and emotionally resonant.",negative,-0.049999999999999996
+The Dark Knight,Elevates the superhero genre to new heights.,positive,0.13636363636363635
+The Dark Knight,The Dark Knight is a cinematic triumph.,negative,-0.075
+Schindler's List,A powerful and heartbreaking portrayal of the Holocaust.,positive,0.3
+Schindler's List,"Spielberg's masterpiece, emotionally resonant and historically significant.",positive,0.1875
+Schindler's List,Neeson's performance is unforgettable.,positive,0.8
+Schindler's List,A film that everyone should see to understand history.,neutral,0.0
+Schindler's List,Schindler's List is a testament to the resilience of the human spirit.,neutral,0.0
+The King's Speech,Inspiring and beautifully acted historical drama.,positive,0.45
+The King's Speech,Firth and Rush are brilliant together.,positive,0.9
+The King's Speech,A moving story of courage and determination.,neutral,0.0
+The King's Speech,The King's Speech is a wonderfully crafted and heartwarming film.,positive,1.0
+The King's Speech,A must-see for fans of historical dramas.,neutral,0.0
+Spirited Away,A magical and enchanting animated film.,positive,0.5
+Spirited Away,"Miyazaki's masterpiece, visually stunning and emotionally rich.",positive,0.4375
+Spirited Away,A timeless story that appeals to all ages.,neutral,0.0
+Spirited Away,Spirited Away is a cinematic treasure.,positive,0.25
+Spirited Away,A must-watch for animation lovers.,neutral,0.0
+Your Name.,Beautifully animated and emotionally resonant.,positive,0.425
+Your Name.,A touching and unforgettable story of connection and destiny.,positive,0.65
+Your Name.,Shinkai's visual style is breathtaking.,positive,0.5
+Your Name.,Your Name. is a modern anime classic.,positive,0.18333333333333335
+Your Name.,A film that will leave you in awe and tears.,neutral,0.0
+Inception,A mind-bending and visually stunning masterpiece.,positive,0.5
+Inception,DiCaprio is fantastic in the lead role.,positive,0.4
+Inception,Nolan's direction is ambitious and innovative.,positive,0.375
+Inception,The plot is complex and keeps you guessing until the very end.,negative,-0.04999999999999999
+Inception,Inception is a cinematic experience unlike any other.,negative,-0.0625
+The Dark Knight,"A dark, complex, and unforgettable superhero film.",positive,0.1166666666666667
+The Dark Knight,Ledger's Joker is iconic and terrifying.,negative,-0.25
+The Dark Knight,Nolan elevates the superhero genre to new heights.,positive,0.13636363636363635
+The Dark Knight,The action sequences are thrilling and expertly crafted.,positive,0.175
+The Dark Knight,The Dark Knight is a cinematic triumph.,negative,-0.075
+Interstellar,A visually breathtaking and emotionally resonant sci-fi epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a powerful and moving performance.,positive,0.3
+Interstellar,Nolan's direction is grand and ambitious.,positive,0.375
+Interstellar,"The film explores complex themes of time, space, and humanity's place in the universe.",negative,-0.3
+Interstellar,Interstellar is a modern sci-fi masterpiece.,positive,0.2
+The Social Network,A brilliant and captivating film about the founding of Facebook.,positive,0.7
+The Social Network,Eisenberg delivers a phenomenal performance as Zuckerberg.,positive,0.5
+The Social Network,"Fincher's direction is top-notch, creating a tense and engaging narrative.",positive,0.3555555555555556
+The Social Network,"The script is sharp and witty, exploring complex themes of ambition and betrayal.",positive,0.025000000000000005
+The Social Network,A modern classic that accurately portrays the digital age.,positive,0.1916666666666667
+Parasite,A masterpiece of social satire and suspense.,positive,0.03333333333333333
+Parasite,Bong Joon-ho's direction is masterful.,positive,1.0
+Parasite,The film is both hilarious and deeply disturbing.,neutral,0.0
+Parasite,A must-watch that will stay with you long after the credits roll.,negative,-0.05
+Parasite,Parasite is a truly original and unforgettable cinematic experience.,positive,0.39166666666666666
+Inception,A mind-bending and visually stunning masterpiece.,positive,0.5
+Inception,Nolan's direction is ambitious and innovative.,positive,0.375
+Inception,DiCaprio delivers a captivating performance.,positive,0.5
+Inception,The plot is intricate and keeps you guessing until the end.,neutral,0.0
+Inception,Inception is a cinematic experience unlike any other.,negative,-0.0625
+The Dark Knight,"A dark, complex, and unforgettable superhero film.",positive,0.1166666666666667
+The Dark Knight,Ledger's Joker is iconic and terrifying.,negative,-0.25
+The Dark Knight,Nolan creates a gritty and realistic Gotham.,positive,0.08333333333333333
+The Dark Knight,The action sequences are thrilling and impactful.,positive,0.175
+The Dark Knight,The Dark Knight raises the bar for superhero movies.,negative,-0.15
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is fantastic in the lead role.,positive,0.4
+Inception,"Nolan's direction is masterful, creating a complex and engaging plot.",positive,0.3666666666666667
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A modern sci-fi classic that rewards multiple viewings.,positive,0.12222222222222223
+The Dark Knight,A superhero masterpiece with a dark and complex story.,negative,-0.22499999999999998
+The Dark Knight,Ledger's performance as the Joker is legendary.,positive,1.0
+The Dark Knight,Nolan's direction is gritty and realistic.,positive,0.08333333333333333
+The Dark Knight,The action sequences are breathtaking.,positive,0.55
+The Dark Knight,A cinematic triumph that redefined the superhero genre.,neutral,0.0
+Spirited Away,A magical and enchanting animated film.,positive,0.5
+Spirited Away,Visually stunning and emotionally resonant.,positive,0.25
+Spirited Away,Miyazaki's storytelling is timeless and universal.,neutral,0.0
+Spirited Away,A beautiful and heartwarming tale for all ages.,positive,0.85
+Spirited Away,Spirited Away is a true work of art.,positive,0.425
+Inception,Mind-bending and visually stunning!,positive,0.625
+Inception,DiCaprio is excellent as Dom Cobb.,positive,1.0
+Inception,Nolan's direction is masterful and intricate.,positive,1.0
+Inception,The score by Hans Zimmer elevates the tension and drama.,neutral,0.0
+Inception,A modern sci-fi classic that demands multiple viewings.,positive,0.12222222222222223
+The Dark Knight,Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,"A dark, complex, and thrilling superhero film.",negative,-0.06666666666666665
+The Dark Knight,"Nolan's direction is superb, creating a grounded and realistic Gotham.",positive,0.5833333333333334
+The Dark Knight,The action sequences are breathtaking and intense.,positive,0.43333333333333335
+The Dark Knight,Considered by many to be the greatest superhero movie ever made.,positive,0.75
+Interstellar,A visually spectacular and emotionally resonant sci-fi epic.,positive,0.2333333333333333
+Interstellar,McConaughey delivers a powerful and moving performance.,positive,0.3
+Interstellar,Nolan tackles complex scientific concepts with clarity and drama.,negative,-0.3
+Interstellar,"The film explores themes of love, sacrifice, and the human spirit.",positive,0.25
+Interstellar,A breathtaking and thought-provoking cinematic journey.,positive,0.4666666666666666
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is excellent as the protagonist.,positive,1.0
+Inception,"Nolan's direction is masterful, creating a complex and engaging plot.",positive,0.3666666666666667
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A cinematic masterpiece that demands multiple viewings.,neutral,0.0
+The Dark Knight,"A definitive superhero film, dark and gritty.",negative,-0.075
+The Dark Knight,Ledger's Joker is legendary.,positive,1.0
+The Dark Knight,Nolan crafts a compelling and intense narrative.,positive,0.25
+The Dark Knight,The action sequences are spectacular.,positive,0.35
+The Dark Knight,A must-see for any film fan.,neutral,0.0
+Interstellar,A visually breathtaking and emotionally resonant sci-fi epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a powerful performance.,positive,0.3
+Interstellar,"Nolan's ambition is on full display, exploring themes of time and love.",positive,0.425
+Interstellar,The science is fascinating and thought-provoking.,positive,0.55
+Interstellar,A modern sci-fi classic.,positive,0.18333333333333335
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is fantastic as Cobb.,positive,0.4
+Inception,"Nolan's direction is masterful, creating a complex and layered narrative.",positive,0.35
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A modern sci-fi classic that rewards multiple viewings.,positive,0.12222222222222223
+Interstellar,A visually breathtaking and emotionally resonant space epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a powerful performance.,positive,0.3
+Interstellar,"Nolan explores themes of love, loss, and the human spirit.",positive,0.25
+Interstellar,The science is complex but fascinating.,positive,0.19999999999999998
+Interstellar,A truly unforgettable cinematic journey.,positive,0.4
+The Dark Knight,A genre-defining superhero film.,neutral,0.0
+The Dark Knight,Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,Nolan creates a dark and gritty Gotham City.,negative,-0.075
+The Dark Knight,The action sequences are thrilling and expertly crafted.,positive,0.175
+The Dark Knight,A cinematic masterpiece that transcends the superhero genre.,neutral,0.0
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is excellent in the lead role.,positive,1.0
+Inception,"Nolan's direction is masterful, creating a complex and engaging plot.",positive,0.3666666666666667
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A modern sci-fi masterpiece that requires multiple viewings to fully appreciate.,positive,0.1
+The Shawshank Redemption,A timeless classic about hope and friendship.,positive,0.16666666666666666
+The Shawshank Redemption,Freeman's narration is unforgettable.,positive,0.8
+The Shawshank Redemption,A powerful and emotionally resonant story.,positive,0.15
+The Shawshank Redemption,One of the greatest films ever made.,positive,1.0
+The Shawshank Redemption,Inspiring and deeply moving.,positive,0.25
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is excellent as the protagonist.,positive,1.0
+Inception,"Nolan's direction is masterful, creating a complex and engaging plot.",positive,0.3666666666666667
+Inception,The score by Hans Zimmer is iconic.,positive,0.5
+Inception,A modern sci-fi classic that rewards multiple viewings.,positive,0.12222222222222223
+The Dark Knight,A genre-defining superhero film.,neutral,0.0
+The Dark Knight,Ledger's Joker is legendary.,positive,1.0
+The Dark Knight,Nolan's direction is gritty and realistic.,positive,0.08333333333333333
+The Dark Knight,The action sequences are spectacular.,positive,0.35
+The Dark Knight,A dark and complex story that elevates the superhero genre.,negative,-0.22499999999999998
+Interstellar,A visually breathtaking and emotionally resonant sci-fi epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a powerful performance.,positive,0.3
+Interstellar,Nolan tackles complex scientific concepts with grace.,negative,-0.3
+Interstellar,The film is both grand in scope and deeply personal.,positive,0.25
+Interstellar,An unforgettable journey through space and time.,positive,0.8
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,"Nolan's best work, a true cinematic masterpiece.",positive,0.45
+Inception,The plot is complex but incredibly engaging.,positive,0.05000000000000002
+Inception,"Performances are top-notch, especially DiCaprio.",positive,0.5
+Inception,A film that demands multiple viewings to fully appreciate.,neutral,0.0
+The Dark Knight,A genre-defining superhero film.,neutral,0.0
+The Dark Knight,Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,"Intense, dark, and brilliantly crafted.",positive,0.3166666666666667
+The Dark Knight,Elevates the superhero genre to new heights.,positive,0.13636363636363635
+The Dark Knight,A must-see for any movie fan.,neutral,0.0
+Interstellar,Epic in scope and emotionally resonant.,positive,0.05
+Interstellar,Visually breathtaking and scientifically grounded.,positive,1.0
+Interstellar,"A powerful story about love, loss, and the future of humanity.",positive,0.26666666666666666
+Interstellar,McConaughey delivers a career-defining performance.,neutral,0.0
+Interstellar,Nolan's ambitious vision pays off in a truly unforgettable film.,positive,0.525
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,A truly original and innovative film.,positive,0.4375
+Inception,DiCaprio's performance is captivating.,positive,0.5
+Inception,Nolan's direction is masterful and complex.,positive,0.35
+Inception,A cinematic experience that will leave you questioning reality.,neutral,0.0
+The Dark Knight,A superhero film elevated to art.,neutral,0.0
+The Dark Knight,Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,A dark and gripping masterpiece.,positive,0.175
+The Dark Knight,"Nolan's best work, a must-see for any film fan.",positive,1.0
+The Dark Knight,The Dark Knight transcends the genre with its depth and complexity.,negative,-0.15
+Interstellar,A visually breathtaking and emotionally resonant sci-fi epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a powerful and moving performance.,positive,0.3
+Interstellar,"Nolan explores themes of love, time, and space with incredible depth.",positive,0.7
+Interstellar,A film that will stay with you long after you've seen it.,negative,-0.05
+Interstellar,Interstellar is a grand and ambitious cinematic achievement.,positive,0.25
+The Social Network,A brilliant and captivating film about the founding of Facebook.,positive,0.7
+The Social Network,Eisenberg delivers a phenomenal performance as Zuckerberg.,positive,0.5
+The Social Network,"Fincher's direction is top-notch, creating a tense and engaging narrative.",positive,0.3555555555555556
+The Social Network,"The script is sharp and witty, exploring complex themes of ambition and betrayal.",positive,0.025000000000000005
+The Social Network,A modern classic that accurately portrays the digital age.,positive,0.1916666666666667
+Parasite,A masterpiece of social satire and suspense.,positive,0.03333333333333333
+Parasite,Bong Joon-ho's direction is masterful.,positive,1.0
+Parasite,The film is both hilarious and deeply disturbing.,neutral,0.0
+Parasite,A must-watch that will stay with you long after the credits roll.,negative,-0.05
+Parasite,Parasite is a truly original and unforgettable cinematic experience.,positive,0.39166666666666666
+The King's Speech,A truly inspiring and moving story.,positive,0.5
+The King's Speech,Colin Firth's performance is outstanding.,positive,0.5
+The King's Speech,A beautifully crafted historical drama.,positive,0.425
+The King's Speech,Geoffrey Rush is brilliant as the unconventional speech therapist.,positive,0.9
+The King's Speech,The film is both heartwarming and powerful.,positive,0.3
+Schindler's List,A powerful and heartbreaking masterpiece.,positive,0.3
+Schindler's List,Spielberg's direction is at its finest.,neutral,0.0
+Schindler's List,Liam Neeson delivers a career-defining performance.,neutral,0.0
+Schindler's List,A must-see film that should never be forgotten.,neutral,0.0
+Schindler's List,Schindler's List is a deeply moving and important historical drama.,positive,0.13333333333333333
+Interstellar,A visually stunning and intellectually stimulating sci-fi epic.,positive,0.3
+Interstellar,McConaughey delivers a powerful and emotional performance.,positive,0.15
+Interstellar,Nolan's direction is ambitious and breathtaking.,positive,0.625
+Interstellar,A must-see for fans of science fiction and space exploration.,neutral,0.0
+Interstellar,Interstellar is a thought-provoking and unforgettable cinematic journey.,positive,0.4000000000000001
+Spirited Away,A magical and enchanting animated masterpiece.,positive,0.5
+Spirited Away,Miyazaki's storytelling is unparalleled.,neutral,0.0
+Spirited Away,Visually breathtaking and emotionally resonant.,positive,0.5
+Spirited Away,A timeless classic that appeals to all ages.,positive,0.16666666666666666
+Spirited Away,Spirited Away is a truly unforgettable and heartwarming film.,positive,0.65
+The Dark Knight,"A dark, complex, and thrilling superhero masterpiece.",negative,-0.06666666666666665
+The Dark Knight,Heath Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,"Nolan's direction is masterful, creating a tense and gripping narrative.",positive,0.3888888888888889
+The Dark Knight,A must-see for fans of superhero films and crime thrillers.,neutral,0.0
+The Dark Knight,The Dark Knight is a cinematic triumph that redefined the genre.,negative,-0.075
+Inception,A mind-bending and visually spectacular thriller.,positive,0.6
+Inception,Nolan's storytelling is intricate and captivating.,positive,0.5
+Inception,DiCaprio delivers a compelling performance.,positive,0.3
+Inception,A must-watch for fans of complex and innovative cinema.,positive,0.1
+Inception,Inception is a truly original and thought-provoking film.,positive,0.3875
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is fantastic in a complex role.,positive,0.05000000000000002
+Inception,"Nolan's direction is masterful, creating a truly unique cinematic experience.",positive,0.4583333333333333
+Inception,The score by Hans Zimmer is iconic and adds to the tension.,positive,0.5
+Inception,A must-see for fans of sci-fi and thrillers.,neutral,0.0
+The Dark Knight,A genre-defining superhero film.,neutral,0.0
+The Dark Knight,Ledger's Joker is legendary and unforgettable.,positive,0.9
+The Dark Knight,"Nolan's Gotham is dark and gritty, perfectly setting the tone.",positive,0.2833333333333333
+The Dark Knight,The action sequences are breathtaking and well-choreographed.,positive,0.55
+The Dark Knight,A cinematic masterpiece that transcends the superhero genre.,neutral,0.0
+Interstellar,A visually spectacular and emotionally resonant sci-fi epic.,positive,0.2333333333333333
+Interstellar,McConaughey delivers a powerful and moving performance.,positive,0.3
+Interstellar,Nolan's direction is ambitious and thought-provoking.,positive,0.325
+Interstellar,The science is grounded and adds to the credibility of the story.,neutral,0.0
+Interstellar,"A modern classic that explores themes of love, sacrifice, and the unknown.",positive,0.19166666666666668
+Inception,A mind-bending masterpiece that demands multiple viewings.,neutral,0.0
+Inception,Nolan's direction is ambitious and visually stunning.,positive,0.375
+Inception,DiCaprio delivers a captivating performance.,positive,0.5
+Inception,The score by Hans Zimmer is iconic and enhances the film's tension.,positive,0.5
+Inception,Inception is a truly original and unforgettable cinematic experience.,positive,0.39166666666666666
+The Dark Knight,A definitive superhero film and a cinematic triumph.,neutral,0.0
+The Dark Knight,Ledger's performance as the Joker is legendary.,positive,1.0
+The Dark Knight,Nolan crafts a dark and complex narrative.,negative,-0.22499999999999998
+The Dark Knight,The action sequences are thrilling and expertly choreographed.,positive,0.175
+The Dark Knight,The Dark Knight raises the bar for superhero movies.,negative,-0.15
+Interstellar,A visually spectacular and emotionally resonant space epic.,positive,0.2333333333333333
+Interstellar,Nolan's direction is ambitious and thought-provoking.,positive,0.325
+Interstellar,McConaughey delivers a powerful and moving performance.,positive,0.3
+Interstellar,"The film explores complex themes of love, time, and humanity's place in the universe.",positive,0.1
+Interstellar,Interstellar is a grand and unforgettable cinematic journey.,positive,0.43333333333333335
+Inception,Mind-bending and visually stunning.,positive,0.5
+Inception,DiCaprio is excellent as the conflicted protagonist.,positive,1.0
+Inception,"Nolan's direction is masterful, creating a complex and engaging plot.",positive,0.3666666666666667
+Inception,The special effects are groundbreaking.,positive,0.35714285714285715
+Inception,A modern sci-fi classic that will leave you questioning reality.,positive,0.18333333333333335
+Interstellar,A visually breathtaking and emotionally resonant space epic.,positive,0.3666666666666667
+Interstellar,McConaughey delivers a powerful performance.,positive,0.3
+Interstellar,Nolan's ambitious storytelling and scientific accuracy are commendable.,positive,0.25
+Interstellar,The score by Hans Zimmer is hauntingly beautiful.,positive,0.85
+Interstellar,A thought-provoking and unforgettable cinematic journey.,positive,0.4000000000000001
+The Dark Knight,"A dark, complex, and thrilling superhero masterpiece.",negative,-0.06666666666666665
+The Dark Knight,Ledger's Joker is iconic and unforgettable.,positive,0.65
+The Dark Knight,Nolan's direction is gritty and realistic.,positive,0.08333333333333333
+The Dark Knight,The action sequences are intense and well-choreographed.,positive,0.15000000000000002
+The Dark Knight,A landmark film in the superhero genre.,neutral,0.0

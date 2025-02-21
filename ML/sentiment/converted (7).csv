@@ -1,0 +1,366 @@
+data,success
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is fantastic in the lead role.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging plot."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that requires multiple viewings.', 'sentiment_label': 'positive', 'sentiment_score': 0.12222222222222223}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A superhero masterpiece with a stellar performance by Heath Ledger.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Bale delivers a compelling Batman.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is dark and gritty, perfectly capturing the tone of Gotham."", 'sentiment_label': 'positive', 'sentiment_score': 0.2833333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are breathtaking.', 'sentiment_label': 'positive', 'sentiment_score': 0.55}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Considered by many to be the greatest superhero film ever made.', 'sentiment_label': 'positive', 'sentiment_score': 0.75}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually stunning and emotionally resonant space epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.19999999999999998}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey gives a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'Nolan tackles complex scientific concepts with grace and clarity.', 'sentiment_label': 'negative', 'sentiment_score': -0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'The film explores themes of love, loss, and the human spirit.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Interstellar', 'review': 'A breathtaking cinematic experience that will leave you in awe.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Social Network', 'review': 'A brilliant and captivating film about the founding of Facebook.', 'sentiment_label': 'positive', 'sentiment_score': 0.7}",True
+"{'movie_name': 'The Social Network', 'review': 'Eisenberg delivers a phenomenal performance as Zuckerberg.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Social Network', 'review': ""Fincher's direction is top-notch, creating a tense and engaging narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.3555555555555556}",True
+"{'movie_name': 'The Social Network', 'review': 'The script is sharp and witty, exploring complex themes of ambition and betrayal.', 'sentiment_label': 'positive', 'sentiment_score': 0.025000000000000005}",True
+"{'movie_name': 'The Social Network', 'review': 'A modern classic that accurately portrays the digital age.', 'sentiment_label': 'positive', 'sentiment_score': 0.1916666666666667}",True
+"{'movie_name': 'Parasite', 'review': 'A masterpiece of social satire and suspense.', 'sentiment_label': 'positive', 'sentiment_score': 0.03333333333333333}",True
+"{'movie_name': 'Parasite', 'review': ""Bong Joon-ho's direction is masterful."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Parasite', 'review': 'The film is both hilarious and deeply disturbing.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Parasite', 'review': 'A must-watch that will stay with you long after the credits roll.', 'sentiment_label': 'negative', 'sentiment_score': -0.05}",True
+"{'movie_name': 'Parasite', 'review': 'Parasite is a truly original and unforgettable cinematic experience.', 'sentiment_label': 'positive', 'sentiment_score': 0.39166666666666666}",True
+"{'movie_name': 'The Social Network', 'review': 'A brilliant and captivating film about the founding of Facebook.', 'sentiment_label': 'positive', 'sentiment_score': 0.7}",True
+"{'movie_name': 'The Social Network', 'review': 'Eisenberg delivers a phenomenal performance as Zuckerberg.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Social Network', 'review': ""Fincher's direction is top-notch, creating a tense and engaging narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.3555555555555556}",True
+"{'movie_name': 'The Social Network', 'review': 'The script is sharp and witty, exploring complex themes of ambition and betrayal.', 'sentiment_label': 'positive', 'sentiment_score': 0.025000000000000005}",True
+"{'movie_name': 'The Social Network', 'review': 'A modern classic that accurately portrays the digital age.', 'sentiment_label': 'positive', 'sentiment_score': 0.1916666666666667}",True
+"{'movie_name': 'Parasite', 'review': 'A masterpiece of social satire and suspense.', 'sentiment_label': 'positive', 'sentiment_score': 0.03333333333333333}",True
+"{'movie_name': 'Parasite', 'review': ""Bong Joon-ho's direction is masterful."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Parasite', 'review': 'The film is both hilarious and deeply disturbing.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Parasite', 'review': 'A must-watch that will stay with you long after the credits roll.', 'sentiment_label': 'negative', 'sentiment_score': -0.05}",True
+"{'movie_name': 'Parasite', 'review': 'Parasite is a truly original and unforgettable cinematic experience.', 'sentiment_label': 'positive', 'sentiment_score': 0.39166666666666666}",True
+"{'movie_name': 'Avengers: Endgame', 'review': 'A satisfying and epic conclusion to the Avengers saga.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Avengers: Endgame', 'review': 'Full of action, emotion, and fan-service moments.', 'sentiment_label': 'positive', 'sentiment_score': 0.22499999999999998}",True
+"{'movie_name': 'Avengers: Endgame', 'review': ""The performances are top-notch, especially Downey Jr.'s."", 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Avengers: Endgame', 'review': 'A must-see for any Marvel fan.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Avengers: Endgame', 'review': 'Endgame is a cinematic triumph that delivers on all fronts.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually stunning and intellectually stimulating sci-fi masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's direction is ambitious and thought-provoking."", 'sentiment_label': 'positive', 'sentiment_score': 0.325}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and emotional performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.15}",True
+"{'movie_name': 'Interstellar', 'review': 'The film explores complex themes of time, space, and human connection.', 'sentiment_label': 'negative', 'sentiment_score': -0.15}",True
+"{'movie_name': 'Interstellar', 'review': 'Interstellar is a cinematic journey that will leave you in awe.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Silence of the Lambs', 'review': 'A chilling and suspenseful thriller that redefined the genre.', 'sentiment_label': 'negative', 'sentiment_score': -0.25}",True
+"{'movie_name': 'The Silence of the Lambs', 'review': ""Hopkins' performance as Hannibal Lecter is iconic and terrifying."", 'sentiment_label': 'negative', 'sentiment_score': -0.25}",True
+"{'movie_name': 'The Silence of the Lambs', 'review': 'Foster is brilliant as Clarice Starling.', 'sentiment_label': 'positive', 'sentiment_score': 0.9}",True
+"{'movie_name': 'The Silence of the Lambs', 'review': ""Demme's direction creates a claustrophobic and unsettling atmosphere."", 'sentiment_label': 'negative', 'sentiment_score': -0.625}",True
+"{'movie_name': 'The Silence of the Lambs', 'review': 'A timeless classic that remains as effective today as it was upon release.', 'sentiment_label': 'positive', 'sentiment_score': 0.3833333333333333}",True
+"{'movie_name': 'Psycho', 'review': ""Hitchcock's masterpiece of suspense and horror."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Psycho', 'review': 'Perkins delivers a haunting performance as Norman Bates.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Psycho', 'review': 'The shower scene is one of the most iconic moments in cinema history.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Psycho', 'review': 'A groundbreaking film that continues to influence filmmakers today.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Psycho', 'review': 'Psycho is a must-see for any fan of suspense and psychological thrillers.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that requires multiple viewings.', 'sentiment_label': 'positive', 'sentiment_score': 0.12222222222222223}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A superhero masterpiece with a phenomenal villain.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is legendary."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Bale's Batman is dark and compelling."", 'sentiment_label': 'positive', 'sentiment_score': 0.075}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is gritty and realistic."", 'sentiment_label': 'positive', 'sentiment_score': 0.08333333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A cinematic triumph that redefined the superhero genre.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a career-defining performance.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's direction is ambitious and thought-provoking."", 'sentiment_label': 'positive', 'sentiment_score': 0.325}",True
+"{'movie_name': 'Interstellar', 'review': 'The science in the film is surprisingly accurate.', 'sentiment_label': 'positive', 'sentiment_score': 0.4000000000000001}",True
+"{'movie_name': 'Interstellar', 'review': 'A powerful and moving story about love, loss, and the future of humanity.', 'sentiment_label': 'positive', 'sentiment_score': 0.26666666666666666}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'Nolan at his best, a complex and intelligent thriller.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A cinematic masterpiece that requires multiple viewings.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'An epic and emotional sci-fi journey.', 'sentiment_label': 'positive', 'sentiment_score': 0.05}",True
+"{'movie_name': 'Interstellar', 'review': 'Visually breathtaking and scientifically grounded.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Interstellar', 'review': ""McConaughey's performance is heart-wrenching."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'Nolan explores themes of love, time, and space with brilliance.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Interstellar', 'review': 'A modern sci-fi classic that pushes the boundaries of the genre.', 'sentiment_label': 'positive', 'sentiment_score': 0.18333333333333335}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The definitive superhero film, dark and gritty.', 'sentiment_label': 'negative', 'sentiment_score': -0.075}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is legendary, a truly iconic villain."", 'sentiment_label': 'positive', 'sentiment_score': 0.75}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Bale's Batman is compelling and complex."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is masterful, creating a gripping narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.75}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A cinematic triumph that transcends the superhero genre.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's best work, a true masterpiece."", 'sentiment_label': 'positive', 'sentiment_score': 0.675}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Inception', 'review': 'The plot is intricate and keeps you guessing until the end.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'A cinematic experience unlike any other.', 'sentiment_label': 'negative', 'sentiment_score': -0.0625}",True
+"{'movie_name': 'The Matrix', 'review': 'Revolutionary and iconic sci-fi film.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Matrix', 'review': 'The action sequences are groundbreaking.', 'sentiment_label': 'positive', 'sentiment_score': 0.1}",True
+"{'movie_name': 'The Matrix', 'review': 'Reeves is perfect as Neo.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Matrix', 'review': 'A thought-provoking exploration of reality and choice.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'The Matrix', 'review': 'A must-see for any sci-fi fan.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'Epic and emotionally resonant space adventure.', 'sentiment_label': 'positive', 'sentiment_score': 0.05}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey gives a career-defining performance.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'Visually breathtaking and scientifically grounded.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A story about love, time, and the human spirit.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's ambitious and profound masterpiece."", 'sentiment_label': 'positive', 'sentiment_score': 0.16666666666666666}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'Nolan at his best, crafting a complex and engaging plot.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The acting is superb, especially DiCaprio.', 'sentiment_label': 'positive', 'sentiment_score': 0.3333333333333333}",True
+"{'movie_name': 'Inception', 'review': 'A film that demands multiple viewings to fully appreciate.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'Inception is a modern sci-fi masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.2}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A genre-defining superhero film.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Dark, gritty, and emotionally resonant.', 'sentiment_label': 'negative', 'sentiment_score': -0.049999999999999996}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Elevates the superhero genre to new heights.', 'sentiment_label': 'positive', 'sentiment_score': 0.13636363636363635}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The Dark Knight is a cinematic triumph.', 'sentiment_label': 'negative', 'sentiment_score': -0.075}",True
+"{'movie_name': ""Schindler's List"", 'review': 'A powerful and heartbreaking portrayal of the Holocaust.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': ""Schindler's List"", 'review': ""Spielberg's masterpiece, emotionally resonant and historically significant."", 'sentiment_label': 'positive', 'sentiment_score': 0.1875}",True
+"{'movie_name': ""Schindler's List"", 'review': ""Neeson's performance is unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.8}",True
+"{'movie_name': ""Schindler's List"", 'review': 'A film that everyone should see to understand history.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': ""Schindler's List"", 'review': ""Schindler's List is a testament to the resilience of the human spirit."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': ""The King's Speech"", 'review': 'Inspiring and beautifully acted historical drama.', 'sentiment_label': 'positive', 'sentiment_score': 0.45}",True
+"{'movie_name': ""The King's Speech"", 'review': 'Firth and Rush are brilliant together.', 'sentiment_label': 'positive', 'sentiment_score': 0.9}",True
+"{'movie_name': ""The King's Speech"", 'review': 'A moving story of courage and determination.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': ""The King's Speech"", 'review': ""The King's Speech is a wonderfully crafted and heartwarming film."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': ""The King's Speech"", 'review': 'A must-see for fans of historical dramas.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Spirited Away', 'review': 'A magical and enchanting animated film.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Spirited Away', 'review': ""Miyazaki's masterpiece, visually stunning and emotionally rich."", 'sentiment_label': 'positive', 'sentiment_score': 0.4375}",True
+"{'movie_name': 'Spirited Away', 'review': 'A timeless story that appeals to all ages.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Spirited Away', 'review': 'Spirited Away is a cinematic treasure.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Spirited Away', 'review': 'A must-watch for animation lovers.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Your Name.', 'review': 'Beautifully animated and emotionally resonant.', 'sentiment_label': 'positive', 'sentiment_score': 0.425}",True
+"{'movie_name': 'Your Name.', 'review': 'A touching and unforgettable story of connection and destiny.', 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'Your Name.', 'review': ""Shinkai's visual style is breathtaking."", 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Your Name.', 'review': 'Your Name. is a modern anime classic.', 'sentiment_label': 'positive', 'sentiment_score': 0.18333333333333335}",True
+"{'movie_name': 'Your Name.', 'review': 'A film that will leave you in awe and tears.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'A mind-bending and visually stunning masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is fantastic in the lead role.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is ambitious and innovative."", 'sentiment_label': 'positive', 'sentiment_score': 0.375}",True
+"{'movie_name': 'Inception', 'review': 'The plot is complex and keeps you guessing until the very end.', 'sentiment_label': 'negative', 'sentiment_score': -0.04999999999999999}",True
+"{'movie_name': 'Inception', 'review': 'Inception is a cinematic experience unlike any other.', 'sentiment_label': 'negative', 'sentiment_score': -0.0625}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark, complex, and unforgettable superhero film.', 'sentiment_label': 'positive', 'sentiment_score': 0.1166666666666667}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and terrifying."", 'sentiment_label': 'negative', 'sentiment_score': -0.25}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Nolan elevates the superhero genre to new heights.', 'sentiment_label': 'positive', 'sentiment_score': 0.13636363636363635}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are thrilling and expertly crafted.', 'sentiment_label': 'positive', 'sentiment_score': 0.175}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The Dark Knight is a cinematic triumph.', 'sentiment_label': 'negative', 'sentiment_score': -0.075}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and moving performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's direction is grand and ambitious."", 'sentiment_label': 'positive', 'sentiment_score': 0.375}",True
+"{'movie_name': 'Interstellar', 'review': ""The film explores complex themes of time, space, and humanity's place in the universe."", 'sentiment_label': 'negative', 'sentiment_score': -0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'Interstellar is a modern sci-fi masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.2}",True
+"{'movie_name': 'The Social Network', 'review': 'A brilliant and captivating film about the founding of Facebook.', 'sentiment_label': 'positive', 'sentiment_score': 0.7}",True
+"{'movie_name': 'The Social Network', 'review': 'Eisenberg delivers a phenomenal performance as Zuckerberg.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Social Network', 'review': ""Fincher's direction is top-notch, creating a tense and engaging narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.3555555555555556}",True
+"{'movie_name': 'The Social Network', 'review': 'The script is sharp and witty, exploring complex themes of ambition and betrayal.', 'sentiment_label': 'positive', 'sentiment_score': 0.025000000000000005}",True
+"{'movie_name': 'The Social Network', 'review': 'A modern classic that accurately portrays the digital age.', 'sentiment_label': 'positive', 'sentiment_score': 0.1916666666666667}",True
+"{'movie_name': 'Parasite', 'review': 'A masterpiece of social satire and suspense.', 'sentiment_label': 'positive', 'sentiment_score': 0.03333333333333333}",True
+"{'movie_name': 'Parasite', 'review': ""Bong Joon-ho's direction is masterful."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Parasite', 'review': 'The film is both hilarious and deeply disturbing.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Parasite', 'review': 'A must-watch that will stay with you long after the credits roll.', 'sentiment_label': 'negative', 'sentiment_score': -0.05}",True
+"{'movie_name': 'Parasite', 'review': 'Parasite is a truly original and unforgettable cinematic experience.', 'sentiment_label': 'positive', 'sentiment_score': 0.39166666666666666}",True
+"{'movie_name': 'Inception', 'review': 'A mind-bending and visually stunning masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is ambitious and innovative."", 'sentiment_label': 'positive', 'sentiment_score': 0.375}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio delivers a captivating performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'The plot is intricate and keeps you guessing until the end.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'Inception is a cinematic experience unlike any other.', 'sentiment_label': 'negative', 'sentiment_score': -0.0625}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark, complex, and unforgettable superhero film.', 'sentiment_label': 'positive', 'sentiment_score': 0.1166666666666667}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and terrifying."", 'sentiment_label': 'negative', 'sentiment_score': -0.25}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Nolan creates a gritty and realistic Gotham.', 'sentiment_label': 'positive', 'sentiment_score': 0.08333333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are thrilling and impactful.', 'sentiment_label': 'positive', 'sentiment_score': 0.175}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The Dark Knight raises the bar for superhero movies.', 'sentiment_label': 'negative', 'sentiment_score': -0.15}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is fantastic in the lead role.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging plot."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that rewards multiple viewings.', 'sentiment_label': 'positive', 'sentiment_score': 0.12222222222222223}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A superhero masterpiece with a dark and complex story.', 'sentiment_label': 'negative', 'sentiment_score': -0.22499999999999998}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's performance as the Joker is legendary."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is gritty and realistic."", 'sentiment_label': 'positive', 'sentiment_score': 0.08333333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are breathtaking.', 'sentiment_label': 'positive', 'sentiment_score': 0.55}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A cinematic triumph that redefined the superhero genre.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Spirited Away', 'review': 'A magical and enchanting animated film.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Spirited Away', 'review': 'Visually stunning and emotionally resonant.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Spirited Away', 'review': ""Miyazaki's storytelling is timeless and universal."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Spirited Away', 'review': 'A beautiful and heartwarming tale for all ages.', 'sentiment_label': 'positive', 'sentiment_score': 0.85}",True
+"{'movie_name': 'Spirited Away', 'review': 'Spirited Away is a true work of art.', 'sentiment_label': 'positive', 'sentiment_score': 0.425}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning!', 'sentiment_label': 'positive', 'sentiment_score': 0.625}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is excellent as Dom Cobb.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful and intricate."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer elevates the tension and drama.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that demands multiple viewings.', 'sentiment_label': 'positive', 'sentiment_score': 0.12222222222222223}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark, complex, and thrilling superhero film.', 'sentiment_label': 'negative', 'sentiment_score': -0.06666666666666665}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is superb, creating a grounded and realistic Gotham."", 'sentiment_label': 'positive', 'sentiment_score': 0.5833333333333334}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are breathtaking and intense.', 'sentiment_label': 'positive', 'sentiment_score': 0.43333333333333335}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Considered by many to be the greatest superhero movie ever made.', 'sentiment_label': 'positive', 'sentiment_score': 0.75}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually spectacular and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.2333333333333333}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and moving performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'Nolan tackles complex scientific concepts with clarity and drama.', 'sentiment_label': 'negative', 'sentiment_score': -0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'The film explores themes of love, sacrifice, and the human spirit.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Interstellar', 'review': 'A breathtaking and thought-provoking cinematic journey.', 'sentiment_label': 'positive', 'sentiment_score': 0.4666666666666666}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is excellent as the protagonist.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging plot."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A cinematic masterpiece that demands multiple viewings.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A definitive superhero film, dark and gritty.', 'sentiment_label': 'negative', 'sentiment_score': -0.075}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is legendary."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Nolan crafts a compelling and intense narrative.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are spectacular.', 'sentiment_label': 'positive', 'sentiment_score': 0.35}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A must-see for any film fan.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's ambition is on full display, exploring themes of time and love."", 'sentiment_label': 'positive', 'sentiment_score': 0.425}",True
+"{'movie_name': 'Interstellar', 'review': 'The science is fascinating and thought-provoking.', 'sentiment_label': 'positive', 'sentiment_score': 0.55}",True
+"{'movie_name': 'Interstellar', 'review': 'A modern sci-fi classic.', 'sentiment_label': 'positive', 'sentiment_score': 0.18333333333333335}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is fantastic as Cobb.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and layered narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.35}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that rewards multiple viewings.', 'sentiment_label': 'positive', 'sentiment_score': 0.12222222222222223}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant space epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'Nolan explores themes of love, loss, and the human spirit.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Interstellar', 'review': 'The science is complex but fascinating.', 'sentiment_label': 'positive', 'sentiment_score': 0.19999999999999998}",True
+"{'movie_name': 'Interstellar', 'review': 'A truly unforgettable cinematic journey.', 'sentiment_label': 'positive', 'sentiment_score': 0.4}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A genre-defining superhero film.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Nolan creates a dark and gritty Gotham City.', 'sentiment_label': 'negative', 'sentiment_score': -0.075}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are thrilling and expertly crafted.', 'sentiment_label': 'positive', 'sentiment_score': 0.175}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A cinematic masterpiece that transcends the superhero genre.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is excellent in the lead role.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging plot."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi masterpiece that requires multiple viewings to fully appreciate.', 'sentiment_label': 'positive', 'sentiment_score': 0.1}",True
+"{'movie_name': 'The Shawshank Redemption', 'review': 'A timeless classic about hope and friendship.', 'sentiment_label': 'positive', 'sentiment_score': 0.16666666666666666}",True
+"{'movie_name': 'The Shawshank Redemption', 'review': ""Freeman's narration is unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.8}",True
+"{'movie_name': 'The Shawshank Redemption', 'review': 'A powerful and emotionally resonant story.', 'sentiment_label': 'positive', 'sentiment_score': 0.15}",True
+"{'movie_name': 'The Shawshank Redemption', 'review': 'One of the greatest films ever made.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Shawshank Redemption', 'review': 'Inspiring and deeply moving.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is excellent as the protagonist.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging plot."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that rewards multiple viewings.', 'sentiment_label': 'positive', 'sentiment_score': 0.12222222222222223}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A genre-defining superhero film.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is legendary."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is gritty and realistic."", 'sentiment_label': 'positive', 'sentiment_score': 0.08333333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are spectacular.', 'sentiment_label': 'positive', 'sentiment_score': 0.35}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark and complex story that elevates the superhero genre.', 'sentiment_label': 'negative', 'sentiment_score': -0.22499999999999998}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'Nolan tackles complex scientific concepts with grace.', 'sentiment_label': 'negative', 'sentiment_score': -0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'The film is both grand in scope and deeply personal.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Interstellar', 'review': 'An unforgettable journey through space and time.', 'sentiment_label': 'positive', 'sentiment_score': 0.8}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's best work, a true cinematic masterpiece."", 'sentiment_label': 'positive', 'sentiment_score': 0.45}",True
+"{'movie_name': 'Inception', 'review': 'The plot is complex but incredibly engaging.', 'sentiment_label': 'positive', 'sentiment_score': 0.05000000000000002}",True
+"{'movie_name': 'Inception', 'review': 'Performances are top-notch, especially DiCaprio.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A film that demands multiple viewings to fully appreciate.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A genre-defining superhero film.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Intense, dark, and brilliantly crafted.', 'sentiment_label': 'positive', 'sentiment_score': 0.3166666666666667}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Elevates the superhero genre to new heights.', 'sentiment_label': 'positive', 'sentiment_score': 0.13636363636363635}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A must-see for any movie fan.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'Epic in scope and emotionally resonant.', 'sentiment_label': 'positive', 'sentiment_score': 0.05}",True
+"{'movie_name': 'Interstellar', 'review': 'Visually breathtaking and scientifically grounded.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A powerful story about love, loss, and the future of humanity.', 'sentiment_label': 'positive', 'sentiment_score': 0.26666666666666666}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a career-defining performance.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's ambitious vision pays off in a truly unforgettable film."", 'sentiment_label': 'positive', 'sentiment_score': 0.525}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A truly original and innovative film.', 'sentiment_label': 'positive', 'sentiment_score': 0.4375}",True
+"{'movie_name': 'Inception', 'review': ""DiCaprio's performance is captivating."", 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful and complex."", 'sentiment_label': 'positive', 'sentiment_score': 0.35}",True
+"{'movie_name': 'Inception', 'review': 'A cinematic experience that will leave you questioning reality.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A superhero film elevated to art.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark and gripping masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.175}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's best work, a must-see for any film fan."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The Dark Knight transcends the genre with its depth and complexity.', 'sentiment_label': 'negative', 'sentiment_score': -0.15}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and moving performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'Nolan explores themes of love, time, and space with incredible depth.', 'sentiment_label': 'positive', 'sentiment_score': 0.7}",True
+"{'movie_name': 'Interstellar', 'review': ""A film that will stay with you long after you've seen it."", 'sentiment_label': 'negative', 'sentiment_score': -0.05}",True
+"{'movie_name': 'Interstellar', 'review': 'Interstellar is a grand and ambitious cinematic achievement.', 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'The Social Network', 'review': 'A brilliant and captivating film about the founding of Facebook.', 'sentiment_label': 'positive', 'sentiment_score': 0.7}",True
+"{'movie_name': 'The Social Network', 'review': 'Eisenberg delivers a phenomenal performance as Zuckerberg.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'The Social Network', 'review': ""Fincher's direction is top-notch, creating a tense and engaging narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.3555555555555556}",True
+"{'movie_name': 'The Social Network', 'review': 'The script is sharp and witty, exploring complex themes of ambition and betrayal.', 'sentiment_label': 'positive', 'sentiment_score': 0.025000000000000005}",True
+"{'movie_name': 'The Social Network', 'review': 'A modern classic that accurately portrays the digital age.', 'sentiment_label': 'positive', 'sentiment_score': 0.1916666666666667}",True
+"{'movie_name': 'Parasite', 'review': 'A masterpiece of social satire and suspense.', 'sentiment_label': 'positive', 'sentiment_score': 0.03333333333333333}",True
+"{'movie_name': 'Parasite', 'review': ""Bong Joon-ho's direction is masterful."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Parasite', 'review': 'The film is both hilarious and deeply disturbing.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Parasite', 'review': 'A must-watch that will stay with you long after the credits roll.', 'sentiment_label': 'negative', 'sentiment_score': -0.05}",True
+"{'movie_name': 'Parasite', 'review': 'Parasite is a truly original and unforgettable cinematic experience.', 'sentiment_label': 'positive', 'sentiment_score': 0.39166666666666666}",True
+"{'movie_name': ""The King's Speech"", 'review': 'A truly inspiring and moving story.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': ""The King's Speech"", 'review': ""Colin Firth's performance is outstanding."", 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': ""The King's Speech"", 'review': 'A beautifully crafted historical drama.', 'sentiment_label': 'positive', 'sentiment_score': 0.425}",True
+"{'movie_name': ""The King's Speech"", 'review': 'Geoffrey Rush is brilliant as the unconventional speech therapist.', 'sentiment_label': 'positive', 'sentiment_score': 0.9}",True
+"{'movie_name': ""The King's Speech"", 'review': 'The film is both heartwarming and powerful.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': ""Schindler's List"", 'review': 'A powerful and heartbreaking masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': ""Schindler's List"", 'review': ""Spielberg's direction is at its finest."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': ""Schindler's List"", 'review': 'Liam Neeson delivers a career-defining performance.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': ""Schindler's List"", 'review': 'A must-see film that should never be forgotten.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': ""Schindler's List"", 'review': ""Schindler's List is a deeply moving and important historical drama."", 'sentiment_label': 'positive', 'sentiment_score': 0.13333333333333333}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually stunning and intellectually stimulating sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and emotional performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.15}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's direction is ambitious and breathtaking."", 'sentiment_label': 'positive', 'sentiment_score': 0.625}",True
+"{'movie_name': 'Interstellar', 'review': 'A must-see for fans of science fiction and space exploration.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'Interstellar is a thought-provoking and unforgettable cinematic journey.', 'sentiment_label': 'positive', 'sentiment_score': 0.4000000000000001}",True
+"{'movie_name': 'Spirited Away', 'review': 'A magical and enchanting animated masterpiece.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Spirited Away', 'review': ""Miyazaki's storytelling is unparalleled."", 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Spirited Away', 'review': 'Visually breathtaking and emotionally resonant.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Spirited Away', 'review': 'A timeless classic that appeals to all ages.', 'sentiment_label': 'positive', 'sentiment_score': 0.16666666666666666}",True
+"{'movie_name': 'Spirited Away', 'review': 'Spirited Away is a truly unforgettable and heartwarming film.', 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark, complex, and thrilling superhero masterpiece.', 'sentiment_label': 'negative', 'sentiment_score': -0.06666666666666665}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Heath Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is masterful, creating a tense and gripping narrative."", 'sentiment_label': 'positive', 'sentiment_score': 0.3888888888888889}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A must-see for fans of superhero films and crime thrillers.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The Dark Knight is a cinematic triumph that redefined the genre.', 'sentiment_label': 'negative', 'sentiment_score': -0.075}",True
+"{'movie_name': 'Inception', 'review': 'A mind-bending and visually spectacular thriller.', 'sentiment_label': 'positive', 'sentiment_score': 0.6}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's storytelling is intricate and captivating."", 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio delivers a compelling performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Inception', 'review': 'A must-watch for fans of complex and innovative cinema.', 'sentiment_label': 'positive', 'sentiment_score': 0.1}",True
+"{'movie_name': 'Inception', 'review': 'Inception is a truly original and thought-provoking film.', 'sentiment_label': 'positive', 'sentiment_score': 0.3875}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is fantastic in a complex role.', 'sentiment_label': 'positive', 'sentiment_score': 0.05000000000000002}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a truly unique cinematic experience."", 'sentiment_label': 'positive', 'sentiment_score': 0.4583333333333333}",True
+"{'movie_name': 'Inception', 'review': 'The score by Hans Zimmer is iconic and adds to the tension.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'A must-see for fans of sci-fi and thrillers.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A genre-defining superhero film.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is legendary and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.9}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's Gotham is dark and gritty, perfectly setting the tone."", 'sentiment_label': 'positive', 'sentiment_score': 0.2833333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are breathtaking and well-choreographed.', 'sentiment_label': 'positive', 'sentiment_score': 0.55}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A cinematic masterpiece that transcends the superhero genre.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually spectacular and emotionally resonant sci-fi epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.2333333333333333}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and moving performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's direction is ambitious and thought-provoking."", 'sentiment_label': 'positive', 'sentiment_score': 0.325}",True
+"{'movie_name': 'Interstellar', 'review': 'The science is grounded and adds to the credibility of the story.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Interstellar', 'review': 'A modern classic that explores themes of love, sacrifice, and the unknown.', 'sentiment_label': 'positive', 'sentiment_score': 0.19166666666666668}",True
+"{'movie_name': 'Inception', 'review': 'A mind-bending masterpiece that demands multiple viewings.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is ambitious and visually stunning."", 'sentiment_label': 'positive', 'sentiment_score': 0.375}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio delivers a captivating performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': ""The score by Hans Zimmer is iconic and enhances the film's tension."", 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'Inception is a truly original and unforgettable cinematic experience.', 'sentiment_label': 'positive', 'sentiment_score': 0.39166666666666666}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A definitive superhero film and a cinematic triumph.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's performance as the Joker is legendary."", 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'The Dark Knight', 'review': 'Nolan crafts a dark and complex narrative.', 'sentiment_label': 'negative', 'sentiment_score': -0.22499999999999998}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are thrilling and expertly choreographed.', 'sentiment_label': 'positive', 'sentiment_score': 0.175}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The Dark Knight raises the bar for superhero movies.', 'sentiment_label': 'negative', 'sentiment_score': -0.15}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually spectacular and emotionally resonant space epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.2333333333333333}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's direction is ambitious and thought-provoking."", 'sentiment_label': 'positive', 'sentiment_score': 0.325}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful and moving performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': ""The film explores complex themes of love, time, and humanity's place in the universe."", 'sentiment_label': 'positive', 'sentiment_score': 0.1}",True
+"{'movie_name': 'Interstellar', 'review': 'Interstellar is a grand and unforgettable cinematic journey.', 'sentiment_label': 'positive', 'sentiment_score': 0.43333333333333335}",True
+"{'movie_name': 'Inception', 'review': 'Mind-bending and visually stunning.', 'sentiment_label': 'positive', 'sentiment_score': 0.5}",True
+"{'movie_name': 'Inception', 'review': 'DiCaprio is excellent as the conflicted protagonist.', 'sentiment_label': 'positive', 'sentiment_score': 1.0}",True
+"{'movie_name': 'Inception', 'review': ""Nolan's direction is masterful, creating a complex and engaging plot."", 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Inception', 'review': 'The special effects are groundbreaking.', 'sentiment_label': 'positive', 'sentiment_score': 0.35714285714285715}",True
+"{'movie_name': 'Inception', 'review': 'A modern sci-fi classic that will leave you questioning reality.', 'sentiment_label': 'positive', 'sentiment_score': 0.18333333333333335}",True
+"{'movie_name': 'Interstellar', 'review': 'A visually breathtaking and emotionally resonant space epic.', 'sentiment_label': 'positive', 'sentiment_score': 0.3666666666666667}",True
+"{'movie_name': 'Interstellar', 'review': 'McConaughey delivers a powerful performance.', 'sentiment_label': 'positive', 'sentiment_score': 0.3}",True
+"{'movie_name': 'Interstellar', 'review': ""Nolan's ambitious storytelling and scientific accuracy are commendable."", 'sentiment_label': 'positive', 'sentiment_score': 0.25}",True
+"{'movie_name': 'Interstellar', 'review': 'The score by Hans Zimmer is hauntingly beautiful.', 'sentiment_label': 'positive', 'sentiment_score': 0.85}",True
+"{'movie_name': 'Interstellar', 'review': 'A thought-provoking and unforgettable cinematic journey.', 'sentiment_label': 'positive', 'sentiment_score': 0.4000000000000001}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A dark, complex, and thrilling superhero masterpiece.', 'sentiment_label': 'negative', 'sentiment_score': -0.06666666666666665}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Ledger's Joker is iconic and unforgettable."", 'sentiment_label': 'positive', 'sentiment_score': 0.65}",True
+"{'movie_name': 'The Dark Knight', 'review': ""Nolan's direction is gritty and realistic."", 'sentiment_label': 'positive', 'sentiment_score': 0.08333333333333333}",True
+"{'movie_name': 'The Dark Knight', 'review': 'The action sequences are intense and well-choreographed.', 'sentiment_label': 'positive', 'sentiment_score': 0.15000000000000002}",True
+"{'movie_name': 'The Dark Knight', 'review': 'A landmark film in the superhero genre.', 'sentiment_label': 'neutral', 'sentiment_score': 0.0}",True
